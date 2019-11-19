@@ -17,7 +17,7 @@ const quoteArray = [
     quote: "It is during our darkest moments that we must focus to see the light.",
     author: "Aristotle",
     citation: "song",
-    year: 650 B.C.
+    year: 650
   },
   {
     quote: "Whoever is happy will make others happy too.",
