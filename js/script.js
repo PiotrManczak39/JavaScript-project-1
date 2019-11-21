@@ -86,10 +86,10 @@ function printQuote() {
 /*------------------------------------------
    Event Listener for clicking button
    OR
-   Display changing every 4 sekonds
+   Display changing every 8 sekonds
 -------------------------------------------*/
 
 // document.getElementById('load-quote').addEventListener("click", printQuote, false);
 
 document.getElementById('load-quote').style.display = 'none';
-window.setInterval(printQuote, 3000);
+window.setInterval(printQuote, 8000);
